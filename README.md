@@ -1,2 +1,2 @@
 # snakegame
-snake game in C without graphic.h 
+snake game in C without graphics.h 
